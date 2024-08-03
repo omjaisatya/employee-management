@@ -1,4 +1,4 @@
-# Employee Management System
+# Employee Management
 
 ## Overview
 
@@ -27,11 +27,11 @@ A comprehensive Employee Management System built with React.js, featuring employ
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/omjaisatya/employee-management-system.git
+   git clone https://github.com/omjaisatya/employee-management.git
    ```
 2. Navigate to the project directory:
    ```sh
-   cd employee-management-system
+   cd employee-management
    ```
 3. Install the dependencies:
    ```sh
